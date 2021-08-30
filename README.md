@@ -39,9 +39,8 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 </p>
 
 #### Statistics
-
-![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lnferrari&theme=chartreuse-dark&show_icons=true)
-
+<!-- theme=chartreuse-dark -->
+![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lnferrari&theme=dark&show_icons=true)
 ![Lucas' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnferrari&layout=compact&theme=dark)
 
 
