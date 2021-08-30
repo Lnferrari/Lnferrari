@@ -14,7 +14,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="25" width="20" >
 </a>&nbsp;<a href="mailto:ln.ferrari@hotmail.com" target="_blank" >
   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucas Ferrari's email" height="25" width="25">
-</a>
+</a>  
   
 ---
 
@@ -33,9 +33,9 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="50" height="50"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="50" height="50"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="50" height="50"/>
-</p>
+</p>  
 
-+++
+
 
 ### 👨‍💻 Desktop Environment:
 <p>
@@ -43,9 +43,9 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="40" height="40"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="40" height="40"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="40" height="40"/>
-</p>
+</p>  
 
-+++
+
 
 ### 📊 GitHub Statistics:
 <!-- theme=chartreuse-dark -->
