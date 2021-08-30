@@ -4,7 +4,6 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=4EAE0A&width=400&height=75&lines=Welcome+to+my+GitHub+page!;I'm+Lucas+Ferrari;Full-stack+Developer)](https://git.io/typing-svg) -->
 
 
-
 _I'm a full stack developer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others. If you found value in something I have created or in case you want to just get in touch, please feel free to reach out to me!_
 
 - 🔭 I’m currently working on **[YouTube Clone](https://github.com/Lnferrari/youtube-clon)**
@@ -12,7 +11,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 - 👯 I’m looking to collaborate on any open-source project
 - 💬 Ask me about anything. I am happy to help.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/lucasferrari1/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="25" width="25">
   </a>
 
 ---
