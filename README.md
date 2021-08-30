@@ -12,7 +12,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 - 💬 Ask me about anything. I am happy to help.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/lucasferrari1/" target="_blank" >
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="25" width="20" >
-</a> <a href="mailto:ln.ferrari@hotmail.com" target="_blank" >
+</a>&nbsp;&nbsp;<a href="mailto:ln.ferrari@hotmail.com" target="_blank" >
   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucas Ferrari's email" height="25" width="25">
 </a>
   
