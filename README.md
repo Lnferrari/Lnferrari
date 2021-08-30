@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=4EAE0A&width=800&height=75&lines=+Hi+there+%F0%9F%91%8B;I'm+Lucas+Ferrari;Full-stack+Developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=4EAE0A&center=true&width=800&height=75&lines=+Hi+there+%F0%9F%91%8B;I'm+Lucas+Ferrari;Full-stack+Developer)](https://git.io/typing-svg)
 
 
 <!--
