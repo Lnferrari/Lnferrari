@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=15F738&size=22&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+GitHub+page!;I'm+Lucas+Ferrari;Full-stack+developer)](https://git.io/typing-svg)
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=4EAE0A&width=400&height=75&lines=Welcome+to+my+GitHub+page!;I'm+Lucas+Ferrari;Full-stack+Developer)](https://git.io/typing-svg) -->
 
+---
 
 _I'm a full stack developer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others. If you found value in something I have created or in case you want to just get in touch, please feel free to reach out to me!_
 
