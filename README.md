@@ -11,18 +11,20 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 - 🌱 I’m currently learning **MongoDB**
 - 👯 I’m looking to collaborate on any open-source project
 - 💬 Ask me about anything. I am happy to help.
-- 📫 How to reach me: **ln.ferrari@hotmail.com**
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/lucasferrari1/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="40" width="40">
+  </a>
 
 ---
 
 ### Languages & Tools:
 <!-- https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png -->
 <p>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="40" height="40"/> 
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="40" height="40"/> 
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="40" height="40"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="40" height="40"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="40" height="40"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="50" height="50"/> 
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="50" height="50"/> 
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="50" height="50"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="50" height="50"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="50" height="50"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="40" height="40"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="40" height="40"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="40" height="40"/>
@@ -34,10 +36,10 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 
 ### Desktop Environment:
 <p>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="40" height="40"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="50" height="50"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="40" height="40"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="40" height="40"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="40" height="40"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="50" height="50"/>
 </p>
 
 ### Statistics:
