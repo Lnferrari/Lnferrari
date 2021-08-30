@@ -1,7 +1,8 @@
 <p align='right'><img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLnferrari&label=VISITORS&labelColor=%23222222&countColor=%2312ad06&style=plastic' alt='visitors badge' /></p>
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=4EAE0A&width=400&height=75&lines=Welcome+to+my+GitHub+page!;I'm+Lucas+Ferrari;Full-stack+Developer)](https://git.io/typing-svg)
----
+
+
 _I'm a full stack developer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others. If you found value in something I have created or in case you want to just get in touch, please feel free to reach out to me!_
 
 - 🔭 I’m currently working on **[YouTube Clone](https://github.com/Lnferrari/youtube-clon)**
@@ -9,6 +10,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 - 👯 I’m looking to collaborate on any open-source project
 - 💬 Ask me about anything. I am happy to help.
 - 📫 How to reach me: **ln.ferrari@hotmail.com**
+
 ---
 
 ### Languages & Tools:
