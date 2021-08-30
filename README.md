@@ -1,4 +1,4 @@
-<p align='right'><img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLnferrari&label=VISITORS&labelColor=%23222222&countColor=%2312ad06&style=plastic' alt='visitors badge' /></p>
+<p align='right'><img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLnferrari&label=visitors&countColor=%2339e512&style=plastic' alt='visitors badge' /></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=15F738&size=22&center=true&vCenter=true&width=800&height=60&lines=Welcome+to+my+GitHub+page!;I'm+Lucas+Ferrari;Full-stack+developer)](https://git.io/typing-svg)
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=4EAE0A&width=400&height=75&lines=Welcome+to+my+GitHub+page!;I'm+Lucas+Ferrari;Full-stack+Developer)](https://git.io/typing-svg) -->
