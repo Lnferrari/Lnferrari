@@ -1,4 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLnferrari&label=VISITORS&labelColor=%23222222&countColor=%2312ad06&style=plastic)
+<p align='center'>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLnferrari&label=VISITORS&labelColor=%23222222&countColor=%2312ad06&style=plastic)</p>
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=4EAE0A&width=400&height=75&lines=+Hi+there+%F0%9F%91%8B;I'm+Lucas+Ferrari;Full-stack+Developer)](https://git.io/typing-svg)
 
