@@ -3,7 +3,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=15F738&size=22&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+GitHub+page!;I'm+Lucas+Ferrari;Full-stack+developer)](https://git.io/typing-svg)
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=4EAE0A&width=400&height=75&lines=Welcome+to+my+GitHub+page!;I'm+Lucas+Ferrari;Full-stack+Developer)](https://git.io/typing-svg) -->
 
-
 _I'm a full stack developer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others. If you found value in something I have created or in case you want to just get in touch, please feel free to reach out to me!_
 
 - 🔭 I’m currently working on **[YouTube Clone](https://github.com/Lnferrari/youtube-clon)**
@@ -11,13 +10,12 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 - 👯 I’m looking to collaborate on any open-source project
 - 💬 Ask me about anything. I am happy to help.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/lucasferrari1/" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="20" width="20" >
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="25" width="25" >
   </a>
 
 ---
 
-## 🛠️ Languages & Tools:
-<!-- https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png -->
+### 🛠️ Languages & Tools:
 <p>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="50" height="50"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="50" height="50"/> 
@@ -33,7 +31,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="50" height="50"/>
 </p>
 
-## 👨‍💻 Desktop Environment:
+### 👨‍💻 Desktop Environment:
 <p>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="50" height="50"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="50" height="50"/>
@@ -41,7 +39,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="50" height="50"/>
 </p>
 
-## 📊 GitHub Statistics:
+### 📊 GitHub Statistics:
 <!-- theme=chartreuse-dark -->
 ![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lnferrari&theme=dark&show_icons=true)
 
