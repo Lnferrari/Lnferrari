@@ -18,10 +18,9 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
   
 ---
 
-<br />
 
 ### 🛠️ Languages & Tools:
-<p style="margin: 5px 0px">
+<p style="margin: 10px 0px">
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="50" height="50"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="50" height="50"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="50" height="50"/>
@@ -38,7 +37,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 
 
 ### 👨‍💻 Desktop Environment:
-<p style="margin: 5px 0px">
+<p style="margin: 10px 0px">
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="40" height="40"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="40" height="40"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="40" height="40"/>
