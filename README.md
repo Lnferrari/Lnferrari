@@ -19,8 +19,8 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 ---
 
 
-### 🛠️ Languages & Tools:
-<p style="margin: 10px 0px">
+## 🛠️ Languages & Tools:
+<p>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="50" height="50"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="50" height="50"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="50" height="50"/>
@@ -36,8 +36,8 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 </p>
 
 
-### 👨‍💻 Desktop Environment:
-<p style="margin: 10px 0px">
+## 👨‍💻 Desktop Environment:
+<p>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="40" height="40"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="40" height="40"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="40" height="40"/>
@@ -45,7 +45,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 </p>
 
 
-### 📊 GitHub Statistics:
+## 📊 GitHub Statistics:
 <!-- theme=chartreuse-dark -->
 ![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lnferrari&theme=dark&show_icons=true)
 
