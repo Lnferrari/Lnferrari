@@ -13,7 +13,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="20" width="20" >
   </a>
   <a href="mailto:ln.ferrari@hotmail.com" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucas Ferrari's email" height="25" width="25" vertical-align="bottom">
+    <img src="https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png" alt="Lucas Ferrari's email" height="25" width="25">
   </a>
   
 ---
