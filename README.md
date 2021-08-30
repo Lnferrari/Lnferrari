@@ -39,10 +39,10 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 
 ### 👨‍💻 Desktop Environment:
 <p>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="50" height="50"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="50" height="50"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="50" height="50"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="50" height="50"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="40" height="40"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="40" height="40"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="40" height="40"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="40" height="40"/>
 </p>
 
 
