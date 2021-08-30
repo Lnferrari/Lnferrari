@@ -13,7 +13,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 - 📫 How to reach me: **ln.ferrari@hotmail.com**
 
 
-## Languages & Tools:
+### Languages & Tools:
 <!-- 
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![html](https://cdn.svgporn.com/logos/html-5.svg)
@@ -26,25 +26,26 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 -->
+
 <p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="40" height="40"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="40" height="40"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="40" height="40"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="40" height="40"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="40" height="40"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="40" height="40"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="40" height="40"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="50" height="50"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="50" height="50"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="50" height="50"/>
 </p>
 
-### Desktop Environment:
+#### Desktop Environment:
 <p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="40" height="40"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="50" height="50"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
 </p>
