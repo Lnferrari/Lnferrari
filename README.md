@@ -3,11 +3,11 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=15F738&size=22&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+GitHub+page!;I'm+Lucas+Ferrari;Full-stack+developer)](https://git.io/typing-svg)
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=4EAE0A&width=400&height=75&lines=Welcome+to+my+GitHub+page!;I'm+Lucas+Ferrari;Full-stack+Developer)](https://git.io/typing-svg)
 <a href="https://www.linkedin.com/in/lucasferrari1/" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="20" width="20" >
-  </a>
-  <a href="mailto:ln.ferrari@hotmail.com" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucas Ferrari's email" height="25" width="25">
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="20" width="20" >
+ </a>
+<a href="mailto:ln.ferrari@hotmail.com" target="_blank" >
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucas Ferrari's email" height="25" width="25">
+</a>
 -->
 
 _I'm a full stack developer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others. If you found value in something I have created or in case you want to just get in touch, please feel free to reach out to me!_
@@ -17,8 +17,12 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 - 👯 I’m looking to collaborate on any open-source project
 - 💬 Ask me about anything. I am happy to help.
 - 📫 How to reach me:
-    [![linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/lucasferrari1/)<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="20" width="20" >
-    [![email](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:ln.ferrari@hotmail.com)<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucas Ferrari's email" height="25" width="25">
+<a href="https://www.linkedin.com/in/lucasferrari1/" target="_blank" >
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="20" width="20" >
+</a>
+<a href="mailto:ln.ferrari@hotmail.com" target="_blank" >
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucas Ferrari's email" height="25" width="25">
+</a>
   
 ---
 
