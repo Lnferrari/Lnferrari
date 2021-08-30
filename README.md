@@ -9,7 +9,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 - 🌱 I’m currently learning **MongoDB**
 - 👯 I’m looking to collaborate on any open-source project
 - 💬 Ask me about anything. I am happy to help.
-- 📫 How to reach me: <p style="display: flex"><a href="https://www.linkedin.com/in/lucasferrari1/" target="_blank" >
+- 📫 How to reach me: <p style="display: flex; align-items: center;"><a href="https://www.linkedin.com/in/lucasferrari1/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="20" width="20" >
   </a>
   <a href="mailto:ln.ferrari@hotmail.com" target="_blank" >
