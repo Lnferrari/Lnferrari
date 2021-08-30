@@ -17,7 +17,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 
 ---
 
-### Languages & Tools:
+### 🛠️ Languages & Tools:
 <!-- https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png -->
 <p>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="50" height="50"/> 
@@ -34,7 +34,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="50" height="50"/>
 </p>
 
-### Desktop Environment:
+### 👨‍💻 Desktop Environment:
 <p>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="50" height="50"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="50" height="50"/>
@@ -42,9 +42,9 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="50" height="50"/>
 </p>
 
-### Statistics:
+### 📊 GitHub Stats:
 <!-- theme=chartreuse-dark -->
-![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lnferrari&theme=dark&show_icons=true)
+![Lucas' GitHub statistics](https://github-readme-stats.vercel.app/api?username=lnferrari&theme=dark&show_icons=true)
 
 ![Lucas' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnferrari&layout=compact&theme=dark)
 
