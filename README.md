@@ -18,6 +18,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
   
 ---
 
+##
 
 ## 🛠️ Languages & Tools:
 <p>
@@ -35,6 +36,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="50" height="50"/>
 </p>
 
+##
 
 ## 👨‍💻 Desktop Environment:
 <p>
@@ -44,6 +46,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="40" height="40"/>
 </p>
 
+##
 
 ## 📊 GitHub Statistics:
 <!-- theme=chartreuse-dark -->
