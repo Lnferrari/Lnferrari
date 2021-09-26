@@ -10,7 +10,7 @@
 
 _I'm a full stack developer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others. If you found value in something I have created or in case you want to just get in touch, please feel free to reach out to me!_
 
-- 🔭 I’m currently working on **[YouTube Clone](https://github.com/Lnferrari/youtube-clon)** & **[Record Store](https://github.com/Lnferrari/record-store)**
+- 🔭 I’m currently working on **[Record Store](https://github.com/Lnferrari/record-store)**
 - 🌱 I’m currently learning **MongoDB**
 - 👯 I’m looking to collaborate on any open-source project
 - 💬 Ask me about anything. I am happy to help.
