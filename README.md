@@ -29,6 +29,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="50" height="50"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="50" height="50"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="50" height="50"/>
+<img style="margin: auto;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fopencollective-production.s3.us-west-1.amazonaws.com%2Fada636e0-395b-11ea-8ab7-b3f0317bbc7c.png&f=1&nofb=1" alt="material ui" width="50" height="50"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="50" height="50"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="50" height="50"/>
 <img style="margin: auto;" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt=sass width="50" height="50"/>
