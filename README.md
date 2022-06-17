@@ -11,8 +11,8 @@
 _I'm a full stack developer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others. If you found value in something I have created or in case you want to just get in touch, please feel free to reach out to me!_
 
 <!-- - 🔭 I’m currently working on **[chat-app-but-with-3d-fun](https://github.com/chat-app-but-with-3d-fun)**
-- 🌱 I’m currently learning **Socket.io** & **Redux** -->
-- 👯 I’m looking to collaborate on any open-source project
+- 👯 I’m looking to collaborate on any open-source project -->
+- 🌱 I’m currently learning **Ruby on Rails** 
 - 💬 Ask me about anything. I am happy to help.
 - 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/lucasferrari1/" target="_blank" >
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="25" width="20" >
