@@ -12,7 +12,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 
 <!-- - 🔭 I’m currently working on **[chat-app-but-with-3d-fun](https://github.com/chat-app-but-with-3d-fun)**
 - 👯 I’m looking to collaborate on any open-source project -->
-- 🌱 I’m currently learning **Ruby on Rails** 
+- 🌱 I’m currently learning **Ruby on Rails** and **Tailswind CSS** 
 - 💬 Ask me about anything. I am happy to help.
 - 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/lucasferrari1/" target="_blank" >
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Ferrari's LinkedIn Profile" height="25" width="20" >
