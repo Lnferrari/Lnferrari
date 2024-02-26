@@ -12,7 +12,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 
 <!-- - 🔭 I’m currently working on **[chat-app-but-with-3d-fun](https://github.com/chat-app-but-with-3d-fun)**
 - 👯 I’m looking to collaborate on any open-source project -->
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **NextJS**
 - 💬 Ask me about anything. I am happy to help.
 - 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/lucasferrari1/" target="_blank" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Lucas Ferrari's LinkedIn Profile" height="25" width="25" >
@@ -29,6 +29,7 @@ _I'm a full stack developer looking to solve real world problems. I have a passi
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="50" height="50"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="50" height="50"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="50" height="50"/>
+<img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" width="50" height="50"/>
 <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material ui" width="50" height="50"/>
 <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/foundation/foundation-original.svg" alt=foundation width="50" height="50"/>
 <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt=figma width="50" height="50"/>
